@@ -6,7 +6,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 技术标准就是纸。我每天都用纸擦屁股。这就是这些纸的价值所在。——林纳斯·托瓦兹
 
 * [在线阅读](https://apachecn.github.io/git-doc-zh)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/git-doc-zh/)
